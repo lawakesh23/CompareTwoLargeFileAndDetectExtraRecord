@@ -9,4 +9,4 @@ Steps to Use this Tool:
 3. Open CMD at the current folder and hit the command "node comareRecords.js"
 4. You will see the unique URLs in final.txt file as Output.
 
-Note: This tool is created for reducing the time complexity, Comparing 1227691 URLs in few minutes. This tool operates when the URLs are in the similar way as in these two files( Starting with "/www/stg.eduplace.com/docs/" in Staging3.txt and "/www/eduplace.com/docs/" in Production-Listing.txt file.
+Note: This tool is created for reducing the time complexity, Comparing 1227691 URLs in less than 3 minutes. This tool operates when the URLs are in the similar way as in these two files( Starting with "/www/stg.eduplace.com/docs/" in Staging3.txt and "/www/eduplace.com/docs/" in Production-Listing.txt file.
